@@ -1,0 +1,27 @@
+{
+  "name": "betterservers",
+  "version": "0.0.0",
+  "description": "node.js API for betterservers",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thegoleffect/betterservers.git"
+  },
+  "keywords": [
+    "betterservers",
+    "cloud",
+    "vps",
+    "api",
+    "virtual",
+    "machines"
+  ],
+  "author": "Van Nguyen <thegoleffect@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thegoleffect/betterservers/issues"
+  },
+  "homepage": "https://github.com/thegoleffect/betterservers"
+}
